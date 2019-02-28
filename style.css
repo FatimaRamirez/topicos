@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=ZCOOL+QingKe+HuangYou');
+
+html, body {
+  background-image: url("matrix_bg.jpg");
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  font-family: 'ZCOOL QingKe HuangYou';
+  color: rgb(255, 255, 255);
+}
+
+.container-fluid {
+  padding-top: 20rem;
+}
+
+h1 {
+  font-size: 200px;
+}
